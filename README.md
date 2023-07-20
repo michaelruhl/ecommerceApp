@@ -1,4 +1,4 @@
-Mike's Headphones: eCommerce + Stripe App
+#Mike's Headphones: eCommerce + Stripe App
 
 Browse through items, add them to your cart and click pay with Stripe to head to checkout!!
 
